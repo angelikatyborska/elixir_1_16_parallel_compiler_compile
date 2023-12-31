@@ -28,5 +28,7 @@ defmodule Elixir115 do
       {:error, _errors, _warnings} ->
         nil
     end
+
+    :ok
   end
 end

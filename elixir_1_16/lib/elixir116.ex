@@ -28,5 +28,7 @@ defmodule Elixir116 do
       {:error, _errors, _warnings} ->
         nil
     end
+
+    :ok
   end
 end
